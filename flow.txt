@@ -1,0 +1,14 @@
+cls=> clear
+
+npm --version   // to check the version
+npm init -y
+npm i express socket.io
+npm i -D nodemon
+
+frontend , backend
+
+frontend => npm create vite@latest  => npm i 
+
+npm i socket.io-client 
+
+npm i @monaco-editor/react
