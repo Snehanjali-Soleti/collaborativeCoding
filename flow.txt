@@ -12,3 +12,5 @@ frontend => npm create vite@latest  => npm i
 npm i socket.io-client 
 
 npm i @monaco-editor/react
+
+ npm i uuid => unique id 
