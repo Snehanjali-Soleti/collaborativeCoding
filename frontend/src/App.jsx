@@ -6,7 +6,7 @@ import io from "socket.io-client";
 import Editor from "@monaco-editor/react";
 import { v4 as uuid } from "uuid";
 
-const socket = io("http://localhost:5000");
+const socket = io("https://collaborativecoding.onrender.com");
 
 
 
